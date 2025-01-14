@@ -1,8 +1,8 @@
-#Just created a 3D scene using Three.js! 🎨✨
+Just created a 3D scene using Three.js! 🎨✨
 
-#🔹 Features:
-#Interactive icosahedron with smooth orbit controls
+🔹 Features:
+Interactive icosahedron with smooth orbit controls
 
-#Dual-layer rendering: solid + wireframe
+Dual-layer rendering: solid + wireframe
 
-#Dynamic lighting with a hemisphere light
+Dynamic lighting with a hemisphere light
